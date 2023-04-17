@@ -1,2 +1,2 @@
 # EdgeLedger
-Simple website exploring the concept of flexbox and media queries
+Simple website exploring the concept of flexbox and media queries for responsiveness
